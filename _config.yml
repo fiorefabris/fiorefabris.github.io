@@ -1,6 +1,6 @@
 # main text of home
 title: Fiorella Fabris, Ph.D.
-bio: Seaside, pistachios, data and math.
+bio: Data, math, chips and seaside.
 personalcomments: theoretical physics, time series analysis 
 
 # twitter summary info
@@ -35,8 +35,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: fiorefabris-github-io # enter this from your disqus account
-  categories: [project] # only show disqus for posts that have these categories
+  shortname: fiorefabris # enter this from your disqus account
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
